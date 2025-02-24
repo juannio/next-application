@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 }
 
 
-export const ContactPage = () => {
+const ContactPage = () => {
   return (
     <>
     <span className="text-7xl">Contact page</span>

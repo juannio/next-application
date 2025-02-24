@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     keywords: ['About', 'info', 'initial info'],
 }
 
-export const AboutPage = () => {
+const AboutPage = () => {
     return (
         <main className="flex flex-col item-center  p-24">
             <span className="text-7xl">About page</span>

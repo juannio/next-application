@@ -15,7 +15,7 @@ const myPromise = () => {
   })
 }
 
-export const PricingPage = async () => {
+const PricingPage = async () => {
   await myPromise();
   return (
     <>
