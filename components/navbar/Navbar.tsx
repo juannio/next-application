@@ -6,15 +6,15 @@ import { ActiveLink } from '../active-link/ActiveLink'
 const navItems = [
     {
         path: '/about',
-        name: 'About',
+        name: 'Sysadmins',
     },
     {
         path: '/pricing',
-        name: 'Pricing',
+        name: 'chebas',
     },
     {
         path: '/contact',
-        name: 'Contact',
+        name: 'no chamba?',
     },
 ]
 
